@@ -2,7 +2,7 @@
 title: 이서윤
 email: seoyuni0727@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  :
+  :D
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
