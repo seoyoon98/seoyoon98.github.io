@@ -3,25 +3,23 @@ layout: default
 avatar: true
 permalink: /
 ---
-## 🚀 Hello World
-You can use this page to showcase your work, portfolio/project, your Latest post {% for post in site.posts limit: 1 %}<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% endfor %} or another stuff that you love to share to the world.
+## 📌 Bullet
+📍팀별 진행상황 및 과정
+💭: 개인
 
 ---
 
 ## 💭 나의 개발 능력 및 역할분석
-
 내가 맡은 오픈소스 프로젝트 분야는 HTML 코드 분석과 기존 코드 분석이다.
 
 ---
 
 ## 💭 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리
-
 내가 맡은 오픈소스 프로젝트 분야는 HTML 코드 분석과 기존 코드 분석이다.
 
 ---
 
 ## 💭 선정 프로젝트 분석 및 개선방향
-
 내가 맡은 오픈소스 프로젝트 분야는 HTML 코드 분석과 기존 코드 분석이다.
 
 ---
