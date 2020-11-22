@@ -8,5 +8,47 @@ You can use this page to showcase your work, portfolio/project, your Latest post
 
 ---
 
-## 🅿️ Edit This Page
-You’ll find this page in your `_pages` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## 💭 나의 개발 능력 및 역할분석
+
+내가 맡은 오픈소스 프로젝트 분야는 HTML 코드 분석과 기존 코드 분석이다.
+
+---
+
+## 💭 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리
+
+내가 맡은 오픈소스 프로젝트 분야는 HTML 코드 분석과 기존 코드 분석이다.
+
+---
+
+## 💭 선정 프로젝트 분석 및 개선방향
+
+내가 맡은 오픈소스 프로젝트 분야는 HTML 코드 분석과 기존 코드 분석이다.
+
+---
+
+## 📍 팀원 역할 분담
+📆 Nov 21, 2020
+
+오픈소스 프로젝트의 진행에 앞서 역할을 분배하였다.
+나는 다른 팀원 한 분과 함께 HTML 코드 분석과 기존 코드 분석을 담당하기로 하였다.
+
+---
+
+## 📍 오픈소스 프로젝트 주제 선정
+📆 Nov 14, 2020
+
+크롤러에 기능 추가 및 크롤링 결과 추출 및 정리 주제를 오픈소스 프로젝트 주제로 선정하였다.
+
+---
+
+## 📍 오픈소스 프로젝트 주제 선정 관련 토론
+📆 Nov 8, 2020
+
+토론을 통하여 오픈소스 팀과제를 위한 주제를 정했다. Python을 이용한 파이게임에 기능 추가, 크롤러에 기능 추가 및 크롤링 결과 추출 및 정리, 라이브러리/API 번역, 알고리즘 정리, Shell Script를 통해 유닉스 명령어 구현 총 6가지의 주제 제시가 이루어졌다. 충분한 토론을 거친 후, 뉴스 크롤러와 라이브러리/API 번역 주제로 프로젝트 방향을 잡았다.
+
+---
+
+## 📍 오픈소스 프로젝트 준비
+🕒 Nov 6, 2020
+
+오픈소스 팀과제를 위한 주제를 한 사람당 하나씩 준비해오기로 했다. 토론을 위한 주제 탐색 중 사회적 화두인 텔레그램을 살펴보았다. 기능, 보안 등 여러가지 측면에서 추가 혹은 수정을 할 수 있을 것 같아 텔레그램 오픈소스를 개인 오픈소스 토론 주제로 준비하였다.
